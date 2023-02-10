@@ -1,0 +1,14 @@
+[package]
+name = "letr"
+description = "The macro for the lazy."
+version = "0.1.1"
+edition = "2021"
+license = "MIT"
+documentation = "https://docs.rs/letr"
+homepage = "https://github.com/swarnimarun/letr"
+repository = "https://github.com/swarnimarun/letr"
+authors = ["Swarnim Arun <mail@swarnimarun.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
